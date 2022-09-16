@@ -1,2 +1,3 @@
 # Temperature-Converter
-Java
+To convert Fahrenheit to Celsius and vice versa
+using Java
